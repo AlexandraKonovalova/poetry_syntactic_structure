@@ -5,7 +5,7 @@
 
 Вам потребуется ввести ссылки на пути к корпусам.
 
-####[Данные поэтического корпуса](https://drive.google.com/drive/folders/1tznmkuGFCs1wbS3Ok_E90UFYMYmxhyVP?usp=sharing): 
+### **[Данные поэтического корпуса](https://drive.google.com/drive/folders/1tznmkuGFCs1wbS3Ok_E90UFYMYmxhyVP?usp=sharing):**
 * [Корпус 19 века](https://drive.google.com/file/d/11nQ_6IUbuqs_YmvsVaQYMz7CjSLaQ2UL/view?usp=sharing)
 * [Корпус 20 века](https://drive.google.com/file/d/16XuBbf5EYi2ZGvmBYkdvGA1bt31Hzt1C/view?usp=sharing)
 * [Корпус с данными о словах, строках и документах](https://drive.google.com/file/d/10gii5EeoiOb8R2FxbJv2NSdXo1PW-QcY/view?usp=sharing)
